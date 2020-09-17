@@ -1,5 +1,3 @@
-# Evan O'Keefe
-
 ## Contact Me
 777 University Ave - Madison, WI 53715  
 (+1) 203 814 9677 - eokeefe3@wisc.edu  
