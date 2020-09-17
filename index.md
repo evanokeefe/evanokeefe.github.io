@@ -1,11 +1,9 @@
 # Evan O'Keefe
 
 ## About Me
----
 I am Junior at the University of Wisconsin-Madison pursuing a B.S. in Materials Science and Engineering with an emphasis in computational materials, and a B.S. in Data Science. I am interested in an R&D Internship for Summer 2021 or Co-Op for Spring/Summer 2020.
 
 ## My Experience
----
 #### **Undergraduate Reseacher - *Mesoscale Computational Modeling Research Group*** 
 - Conducted thousands of microstructure simulations with various base parameters on the Center for High Throughput Computing’s servers.
 - Used Google Collab for a Convolutional Neural Network to find the optimal parameters to yield the highest conductivity within the composite material.
@@ -24,7 +22,6 @@ I am Junior at the University of Wisconsin-Madison pursuing a B.S. in Materials 
 - Discuss topics in Materials Science during club meetings and participate in practical activities including learning how to forge.
 
 ## Practical Lab Experience
----
 #### **Materials Laboratory I/II/III**
 - Analysis of microstructures, Hardness Testing, X-Ray diffractometry, phase concentration determination
 
@@ -39,7 +36,6 @@ I am Junior at the University of Wisconsin-Madison pursuing a B.S. in Materials 
 - UV-Vis, Fourier-Transform Infrared, Atomic Absorption, and Mass spectroscopy; Gas and High-Pressure Liquid Chromatography; extraction of essential oils; synthesis of natural flavor compounds and acetylsalicylic acid
 
 ## Other Work Experience
----
 #### **Housing Ambassador - *University Housing***
 - Lead University Housing tours for prospective students, resolve any inquiries received through email or phones, and prepare office communications.
 - Created a system for electronically logging all tour attendees to replace a paper version
