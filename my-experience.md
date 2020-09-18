@@ -1,7 +1,3 @@
-layout: page
-title: "My Experience"
-permalink: /my-experience/
-
 ## My Experience
 
 #### **Undergraduate Researcher - *Mesoscale Computational Modeling Research Group*** 
@@ -19,4 +15,5 @@ permalink: /my-experience/
 
 #### **Member - *Material Advantage/American Foundry Society***
 - Discuss topics in Materials Science during club meetings and participate in practical activities including learning how to forge.
-
+s
+[Home](/)

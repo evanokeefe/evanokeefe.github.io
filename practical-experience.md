@@ -16,3 +16,5 @@ permalink: /practical-experience/
 
 #### **Analytical Chemistry**
 - UV-Vis, Fourier-Transform Infrared, Atomic Absorption, and Mass spectroscopy; Gas and High-Pressure Liquid Chromatography; extraction of essential oils; synthesis of natural flavor compounds and acetylsalicylic acid
+
+[Home](/)

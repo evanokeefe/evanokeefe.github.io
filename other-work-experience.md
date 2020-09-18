@@ -1,7 +1,3 @@
-layout: page
-title: "Work Experience"
-permalink: /work-experience/
-
 ## Other Work Experience
 
 #### **Housing Ambassador - *University Housing***
@@ -16,3 +12,5 @@ permalink: /work-experience/
 
 #### **Counselor in Training & Lifeguard - *YMCA Camp Woodstock***
 - Responsible for the general well-being of 12 campers. Attended a 4-week program on leadership skills. Monitored the waterfront to maintain safe conditions for all children in the water.
+
+[Home](/)

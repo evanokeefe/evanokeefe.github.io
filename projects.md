@@ -1,7 +1,3 @@
-layout: page
-title: "My Projects"
-permalink: /projects/
-
 ## My Projects
 
 #### **Machine Learning Development of a Solid Electrolyte**
@@ -22,3 +18,5 @@ permalink: /projects/
     1. Search all bus stops for a given area using a Binary Search Tree
     2. Visually display the stops in the given area
     3. Inform users which buses were available for bikes, wheelchairs, and on weekend/holiday schedules
+
+[Home](/)
