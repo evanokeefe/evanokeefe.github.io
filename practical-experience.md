@@ -1,7 +1,3 @@
-layout: page
-title: "Practical Experience"
-permalink: /practical-experience/
-
 ## Practical Lab Experience
 
 #### **Materials Laboratory I/II/III**
